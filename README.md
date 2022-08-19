@@ -1,7 +1,7 @@
-# **sena-base-info-2021 v2.0.0**
+# **Información de programa. Técnico. Modelado digital de productos industriales**
 
 ## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/ECORED-BASE-INFO-2021/](https://ecored-sena.github.io/ECORED-BASE-INFO-2021/)
+[https://sena-externos.github.io/INFO-225223-TC-MDLD_DGTL_PRDCTS_INDSTR/](https://sena-externos.github.io/INFO-225223-TC-MDLD_DGTL_PRDCTS_INDSTR/)
 
 #
